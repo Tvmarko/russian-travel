@@ -1,0 +1,9 @@
+.header__lang-link_ru {
+    margin-right: 18px;
+}
+
+@media screen and (max-width: 425px) {
+    .header__lang-link_ru {
+        margin-right: 16px;
+    }
+}

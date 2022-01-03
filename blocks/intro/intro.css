@@ -4,7 +4,7 @@
     padding-top: 92px;
     padding-left: 148px;
     max-width: 690px;
-    min-height: 429px;
+    height: 429px;
     align-content: flex-start;
 }
 
@@ -23,10 +23,10 @@
       }
   }
 
-  @media screen and (max-width: 320px) {
+  @media screen and (max-width: 425px) {
     .intro {
         max-width: 288px;
-        min-height: 754px;
+        height: 754px;
         padding-top: 64px;
         padding-left: 16px;
         margin: 0 auto;

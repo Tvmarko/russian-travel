@@ -20,7 +20,7 @@
       }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 932px) {
     .place {
         grid-template-columns: 340px 352px;
         grid-template-rows: auto auto;
@@ -29,7 +29,7 @@
       }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 730px) {
     .place {
         grid-auto-flow: column;
         grid-template-columns: auto;

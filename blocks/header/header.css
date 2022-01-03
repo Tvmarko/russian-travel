@@ -3,7 +3,7 @@
     margin: 0 auto;
     display: flex;
     justify-content: space-between;
-    min-height: 52px;
+    height: 52px;
     padding-top: 28px;
 }
 
@@ -19,10 +19,10 @@
       }
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .header {
         max-width: 288px;
-        min-height: 42px;
+        height: 42px;
         padding-top: 16px;
         }
 }

@@ -9,22 +9,10 @@
     color: #FFFFFF;
 }
 
-.header__lang-link_ru {
-    margin-right: 18px;
-}
-
-.header__lang-link_eng {
-    text-decoration: none;
-}
-
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .header__lang-link {
         font-size: 18px;
         line-height: 20px;
         padding-top: 6px;
     }
-
-    .header__lang-link_ru {
-        margin-right: 16px;
-    }
-}
+ }

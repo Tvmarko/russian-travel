@@ -6,13 +6,13 @@
 
 @media screen and (max-width: 932px) {
     .place__image {
-        height: 340px;
+        height: auto;
       }
 }
 
 @media screen and (max-width: 425px) {
     .place__image {
-        height: 320px;
+        height: auto;
       }
 }
 

@@ -1,15 +1,13 @@
-.place__website_link {
+.place__link {
     font-size: 18px;
     line-height: 22px;
     color: #FFFFFF;
-    margin-bottom: 12px;
+    margin: 12px 0;
     padding: 0;
     opacity: 1;
     transition: opacity 0.3s;
 }
 
-.place__website_link:hover {
+.place__link:hover {
     opacity: 0.8;
 }
-
-

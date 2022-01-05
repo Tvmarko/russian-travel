@@ -29,7 +29,7 @@
       }
 }
 
-@media screen and (max-width: 730px) {
+@media screen and (max-width: 767px) {
     .place {
         grid-auto-flow: column;
         grid-template-columns: auto;
